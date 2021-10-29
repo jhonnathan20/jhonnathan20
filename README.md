@@ -1,6 +1,6 @@
 - I am an Electrical Engineer from Universidad de Costa Rica
-- I’m currently working on Intel Corporation as a Hardware Debug Engineer
-- I’m looking to learn more about coding and add some of my favorite excercises in Python
+- I’m currently working on Intel Corporation as Hardware Debug Engineer
+- I’m looking to learn more about coding and add some of my favorites excercises/challenges scripts.
 -Contact: jhonnathan.ucr@gmail.com
 
 <!---
